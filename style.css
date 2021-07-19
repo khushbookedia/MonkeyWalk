@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: url("http://www.4kwallpaperhd.com/wp-content/uploads/2018/05/Green-Forest-Background-wallpaper-for-desktop.jpg");
+    background-size: cover;
+}
+
+hr {
+    width: 190px;
+}
+
+img {
+    height: 300px;
+    width: 250px;
+}
